@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+
+	"name": "Just Play Music",
+
+	"description": "This extension allows you to play audio from youtube videos discretely in your browser",
+
+	"version": "1.0",
+
+	"permissions": [], 
+
+	"browser-action": { }
+
+}
+
