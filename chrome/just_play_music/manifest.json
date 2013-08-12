@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Just Play Music",
+  "description" : "To use, type 'justplay' plus the name of the song you want to hear.",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "omnibox": { "keyword" : "justplay" }
+}
